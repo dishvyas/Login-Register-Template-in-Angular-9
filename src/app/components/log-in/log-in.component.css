@@ -1,0 +1,21 @@
+input {
+  width: 100%;
+  padding: 20px 30px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: black;
+  color: white;
+}
+
+
+button {
+  margin-top: 10px;
+  justify-content: center;
+  margin-left: 40%;
+  background-color: greenyellow;
+  padding: 10px 15px;
+  border-radius: 4px;
+}
